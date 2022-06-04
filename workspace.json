@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "jm-site": "apps/jm-site",
-    "jm-site-e2e": "apps/jm-site-e2e"
+    "jm-site-e2e": "apps/jm-site-e2e",
+    "pages": "libs/pages"
   }
 }

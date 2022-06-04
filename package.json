@@ -13,6 +13,7 @@
   },
   "private": true,
   "dependencies": {
+    "svelte-routing": "^1.6.0",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
