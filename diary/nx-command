@@ -1,0 +1,4 @@
+npx create-nx-workspace jollymick-svelte-site
+npm install @nxext/svelte --save
+
+npx nx generate @nxext/svelte:application jm-site

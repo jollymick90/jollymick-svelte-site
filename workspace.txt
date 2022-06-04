@@ -1,0 +1,33 @@
+// {
+//   "version": 2,
+//   "projects": {
+//     "app": {
+//       "root": "apps/app",
+//       "sourceRoot": "apps/app/src",
+//       "projectType": "application",
+//       "targets": {
+//         "build": {
+//           "executor": "@nxext/svelte:build",
+//           "outputs": ["{options.outputPath}"],
+//           "options": {
+            
+//             "svelteConfig": "apps/app/svelte.config.cjs", <--------------------
+            
+//           },
+          
+//         },
+//         "serve": {
+//           "executor": "@nxext/svelte:build",
+//           "options": {
+            
+//             "svelteConfig": "apps/app/svelte.config.cjs",
+            
+//           }
+//         },
+        
+//       }
+//     },
+    
+//   },
+  
+// }
